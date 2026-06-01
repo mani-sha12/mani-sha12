@@ -17,29 +17,28 @@ I'm a BCA student passionate about turning raw data into meaningful insights. I'
 
 ### Languages & Tools
 - Python
-- 
+ 
 - SQL
-- 
+
 - Pandas
-- 
+
 - NumPy
-- 
+
 - Matplotlib
-- 
+
 - Git & GitHub
-- 
 
 ---
 
 ## 🎯 Goals
 - Build real-world Data Analytics projects
-- 
+
 - Strengthen SQL and Python skills
-- 
+
 - Learn Data Visualization and Machine Learning
-- 
+
 - Contribute to open-source projects
-- 
+
 - Start a career as a Data Analyst
 
 ---
