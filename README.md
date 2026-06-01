@@ -1,6 +1,7 @@
 ## Hi there 👋
-
+-
 I'm a BCA student passionate about turning raw data into meaningful insights. I'm currently diving deep into Data Science, Machine Learning, and Web Development — building projects that combine analytical thinking with real-world problem solving.
+-
 
 🎓 Garduated in Bachelor of Computer Applications (BCA)
 -
