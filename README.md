@@ -13,5 +13,3 @@ I'm a BCA student passionate about turning raw data into meaningful insights. I'
 -
 🚀 Building projects in Python, JavaScript, and SQL
 -
-📍 Based in India
--
