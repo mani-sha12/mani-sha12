@@ -3,8 +3,6 @@
 I'm a MCA student passionate about turning raw data into meaningful insights. I'm currently diving deep into Data Science, Machine Learning, and Web Development — building projects that combine analytical thinking with real-world problem solving.
 -
 
-🎓 Graduated in Bachelor of Computer Applications (BCA)
--
 🌱 Currently learning pandas, NumPy, matplotlib, seaborn, scikit-learn
 -
 🔍 Exploring Exploratory Data Analysis and Machine Learning concepts
